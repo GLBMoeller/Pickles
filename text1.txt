@@ -1,10 +1,6 @@
 Ueberraschungstrauma!
 test1 ist ein Ueberraschungsvokabeltest
-<<<<<<< HEAD
 test2
-=======
-test2 successfull
->>>>>>> 3e5307adf763542f41455c9d0427c0249f14a94e
 test3
 test4
 test5
